@@ -3,5 +3,9 @@ hello
 My name is Tanmay Pereira Naik
 I am a genius(" YEa Yea self proclaimed")
 
+<<<<<<< HEAD
 agreed!!!!!!!!
 
+=======
+Great saar
+>>>>>>> 45ed3723627ee445f45fb445c57c3016c6bde4d9
